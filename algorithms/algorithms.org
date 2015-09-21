@@ -1,0 +1,55 @@
+* Algorithms
+** Course Outline
+*** Programming and problem solving
+*** Data structures - Methods to store information
+**** Stack
+**** Queues
+**** Bag
+**** Union-find
+**** Priority Queue
+*** Algorithms - Method to solve problems
+**** Part I
+***** Sorting
+****** quicksort
+****** mergesort
+****** heapsort
+****** radix sort
+***** Searching
+****** Binary Search Tree
+****** Red Black BST
+****** hash table
+**** Part II
+***** Graphs
+****** BFS
+****** DFS
+****** Prim
+****** Kruskal Djikstra
+***** Strings
+****** KMP
+****** Regex
+****** TST
+****** Huffman
+****** LZW
+***** Advanced
+****** B-tree
+****** suffix array
+****** maxflow
+*** Why Study Algorithms?
+**** Impact is broad and far reaching
+**** Old roots, new opportunity
+**** For fun and profit
+**** For intellectual simulation
+**** Mathematical models replacing computational model
+**** To become a proficient programmer
+**** To solve problems that could not be addressed otherwise
+** Dynamic Connections
+*** union
+*** connected
+*** modeling the connections
+**** Equivalence relation
+***** Reflexive
+***** Symmetric
+***** Transitive
+**** Connected components
+***** Maximal set of objects mutually connected
+***** Identifying them can increase efficiency of an algo
