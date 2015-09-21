@@ -1,0 +1,226 @@
+* Project Management
+** Course Overview
+*** Week 1 - Define and organise
+**** What are projects
+***** Definition
+**** What makes them successful
+**** Project Goals
+***** Scope
+***** Time
+***** Budget
+**** Orgn and stakeholders involved
+**** Project Lifecycle
+**** Case Study - Healthcare.gov
+*** Week 2 - Plan
+**** Planning
+**** Scoping
+**** Task and dependencies
+**** Scheduling, Deadlines, Changes
+**** Case Study - Viginia Festival of Books
+*** Week 3 - Risks
+**** Planning for ambiguity
+**** Risks and Analysis
+**** Case Study - Loomi Juice
+*** Week 4 - Execution
+**** Execution
+***** Modes
+***** Different co.panies and requirements
+**** Human Dependency
+***** Biases
+***** Tendencies
+***** New work processes for different individuals
+**** Case Study - salesforce.com
+** Define and Organise a project
+*** What is a project?
+**** Building a product
+**** A mega project
+**** Organising events
+**** Shooting a film or festival
+**** What's common?
+***** Create a specific and unique product or service
+***** Temporary
+****** Start date and end date
+****** Temporary stakeholders
+***** Require multi discipliniary co-ordination
+***** Time, cost or resources constraint
+***** Definitions
+****** A unique service created within a specific time frame with allotted resources
+****** A temporary endeavour resulting in a unique service or product
+*** How do we define a project?
+**** What is the Goal?
+What is the unique service that we are going to provide? Why are we even doing this?
+***** The three objectives
+****** Scope
+******* Requirements
+******* Quality
+******* Specifications
+****** Time
+****** Budget
+******* Cost
+******* Resources
+****** Priorities
+|             | Scope | Time | Budget |
+|-------------+-------+------+--------|
+| Constrained |       |      |        |
+| Optimize    |       |      |        |
+| Compromise  |       |      |        |
+*** Organisation and stakeholders
+**** Who will do the work?
+**** Who will be PM
+**** Who will pay?
+**** Who is the customer?
+**** Who else is affected?
+**** Stakeholder Management Cycle
+***** Identify stakeholder
+***** Gather Information about them
+***** Identify stakeholders mission
+***** SWOT of stakeholder
+***** Predict stakeholder's behaviour
+***** Implement stakeholder management
+**** Stakeholder Power/Interest Grid
+              Power    
+| Keep Informed | Manage Closely |
+|---------------+----------------|Interest
+| Monitor       | Keep Informed  |
+*** Project Success and Failures
+**** Four Bases for Successful Projects
+***** Technology scale: High tech to low tech
+***** Novelty scale: Derivative to Novel
+***** Pace scale: Regular to Blitz
+***** Complexity Scale: Assembly to Array
+**** Measuring Success
+***** On time?
+***** Scope?
+***** Cost?
+*** Supplements
+**** Boyhood
+**** Very well thought off
+**** Had the leisure of time
+**** Made with passion
+**** Lesser variables
+**** Artisitic liberty can cover a lot of flaws
+*** BA Terminal 5
+**** Too many variables
+**** Not enough testing
+**** Did not manage stakeholder's expectations well enough
+**** Did not take into account all the stakeholders such as parking attendent.
+**** Not enough training
+*** Project Lifecycle
+**** Initiation
+**** Planning
+**** Execution
+**** Close-out
+** Planning
+*** Why Plan?
+**** Drucker's Effective Execution: What is a plan
+***** Plan is a set of intentions but not commitments
+***** It is not set in stone
+***** Evolves as the project evolves
+***** Need a system to check results against expectations
+***** Becomes the basis for executive time management
+**** Components of a plan
+***** Scope
+***** Tasks, Dependencies, Schedule
+***** Resource planning
+***** Clarify tradeoffs and decision making principles
+***** Risk management plan
+*** Detailed Scoping
+**** Activity: Work Breakdown Structure
+***** Brainstorm using whiteboards, sticky notes etc.
+***** Can use tools like WBSPro
+***** Detail down to the level where each task is equal to 5%-10% of the total duration of a single resource
+*** Identifying dependencies
+**** Logical flow is identified
+**** Duration can be imagined
+**** Dependency diagrams
+***** Matrix
+***** Table
+***** Network Diagram
+****** No hanging tasks
+**** Types of dependencies - Precedence relationships
+***** Start to finish
+***** Finish to finish
+***** Start to Start
+***** Finish to start
+*** Completion date and critical path
+**** Estimation Challenges
+***** Parkinson's law
+A person will take the entire duration allotted to them for a task and not less.
+***** Student's syndrome
+Procrastination will rule the day. A task allotted 4 weeks maybe completed in the last 4 days because of procrastination.
+***** Overconfidence
+***** Biases
+****** Anchoring and Confirmation
+**** Critical Path
+***** Longest path through the network diagram
+***** Project duration is defined by this
+***** Any delay along the critical path will result in project delay
+***** Developed by engineers at DuPont in 1950
+*** How do we schedule?
+**** As soon as possible - constrained by time, incurring earlier cost
+**** As late as possible - constrained by cost, incurring time penalties possibly
+Looking at historical estimates and expectations, we estimate anchored from these positions
+*** Reducing Schedule
+**** Shorten critical path - Project crashing
+***** Select the least expensive to crash
+***** New critical paths may emerge. 
+***** Project crashing is cyclical
+***** We might introduce lesser slack
+***** We might introduce more risk
+**** Scope Reduction
+***** Eliminate unnecessary task
+***** Reduce functionality
+***** Cut corners
+***** Outsource
+*** Reflecting on Common Mistakes
+**** Common Mistakes
+***** No WBS
+1. Incorrect Scope
+2. No Responsibility assigned
+3. Incorrect project duration, critical path and cost estimates
+***** Task durations specified in terms of work and not in terms of resource
+1. Underestimated task duration
+2. Incorrect crucial path
+***** No Network Diagram
+***** Precedence Relationships mistakes
+****** Tasks without pre and succ
+****** Using fixed dates
+****** Tasks should have the correct dependencies. Prone to error
+****** Dependencies between summary and not tasks
+**** Checklist to avoid mistakes
+***** WBS
+1. Available?
+2. Complete?
+3. Discusses upon?
+4. Agreed upon?
+***** Network Diagram
+1. Has a start node and an end node
+2. All activities with predecessors and/or successors
+***** Milestone
+1. One milestone at the start and one project completion milestone
+2. Intermediate milestones? Each one has a critical path?
+***** Gantt-chart
+1. No missing dependencies between activities in correct sequence?
+2. No summary task links?
+3. Tasks with excessive durations - needs to be broken down
+4. Check dependencies(overlaps, time lags)
+5. Check critical path: from project start to finish
+**** Planning Wrap Up
+1. Project planning crucial for project success
+** QnA with students
+*** What are the personality traits of a good project manager?
+**** Social. Capability to emphathise and symphathise with people around you
+**** Ability to help people with fitting their part of the work with rest of the team
+**** Being respectful to individuals and their skills
+**** Communication
+**** Ability to generate enthusiasm for a common goal
+**** Build and maintain relationship
+**** Organised, well balanced
+**** Ability to take crucial decisions
+**** Ability to punt certain things in favour of other things
+*** How does a PM establish control?
+**** A plan of execution
+***** How progress will be communicated
+***** What meetings?
+***** Set out schedule
+***** What processes in place? and why?
