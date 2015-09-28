@@ -16,7 +16,7 @@
 **** Scoping
 **** Task and dependencies
 **** Scheduling, Deadlines, Changes
-**** Case Study - Viginia Festival of Books
+**** Case Study - Virginia Festival of Books
 *** Week 3 - Risks
 **** Planning for ambiguity
 **** Risks and Analysis
@@ -41,7 +41,7 @@
 ***** Temporary
 ****** Start date and end date
 ****** Temporary stakeholders
-***** Require multi discipliniary co-ordination
+***** Require multi disciplinary co-ordination
 ***** Time, cost or resources constraint
 ***** Definitions
 ****** A unique service created within a specific time frame with allotted resources
@@ -78,10 +78,10 @@ What is the unique service that we are going to provide? Why are we even doing t
 ***** Predict stakeholder's behaviour
 ***** Implement stakeholder management
 **** Stakeholder Power/Interest Grid
-              Power    
-| Keep Informed | Manage Closely |
-|---------------+----------------|Interest
-| Monitor       | Keep Informed  |
+| Interest/Power | Low Power     | High Power     |
+|----------------+---------------+----------------|
+| Low Interest   | Monitor       | Keep Informed  |
+| High Interest  | Keep Informed | Manage Closely |
 *** Project Success and Failures
 **** Four Bases for Successful Projects
 ***** Technology scale: High tech to low tech
@@ -94,17 +94,17 @@ What is the unique service that we are going to provide? Why are we even doing t
 ***** Cost?
 *** Supplements
 **** Boyhood
-**** Very well thought off
-**** Had the leisure of time
-**** Made with passion
-**** Lesser variables
-**** Artisitic liberty can cover a lot of flaws
-*** BA Terminal 5
-**** Too many variables
-**** Not enough testing
-**** Did not manage stakeholder's expectations well enough
-**** Did not take into account all the stakeholders such as parking attendent.
-**** Not enough training
+***** Very well thought off
+***** Had the leisure of time
+***** Made with passion
+***** Lesser variables
+***** Artisitic liberty can cover a lot of flaws
+**** BA Terminal 5
+***** Too many variables
+***** Not enough testing
+***** Did not manage stakeholder's expectations well enough
+***** Did not take into account all the stakeholders such as parking attendent.
+***** Not enough training
 *** Project Lifecycle
 **** Initiation
 **** Planning
@@ -207,6 +207,16 @@ Looking at historical estimates and expectations, we estimate anchored from thes
 5. Check critical path: from project start to finish
 **** Planning Wrap Up
 1. Project planning crucial for project success
+2. It's a guide and not a schedule
+3. Follow project planning cycle
+4. Make sure that the goal is clear
+5. Ensure project scope is complete
+6. Estimate activity duration overcoming challenges
+7. Decides who owns each activity
+8. Know which are critical activities
+9. Prevent conflict between activities
+10. Project crashing/fast tracking are your tools to be used
+*** Case Study: Virginia Festival of the Book
 ** QnA with students
 *** What are the personality traits of a good project manager?
 **** Social. Capability to emphathise and symphathise with people around you
@@ -220,7 +230,78 @@ Looking at historical estimates and expectations, we estimate anchored from thes
 **** Ability to punt certain things in favour of other things
 *** How does a PM establish control?
 **** A plan of execution
+***** Establish processes
+***** What processes in place? and why?
 ***** How progress will be communicated
 ***** What meetings?
 ***** Set out schedule
-***** What processes in place? and why?
+** Risk
+*** What is risky about projects
+**** Sources of uncertainity
+***** Foreseaable Uncertainities
+****** Variability
+****** Alternative paths
+***** Risks - Complexities
+****** Tasks
+****** Stakeholders
+***** Unforceable Uncertainities - Ambiguity
+****** Novel technology
+****** Novel Market
+**** Demand and Technology Uncertainity Matrix
+**** Plan to Match Risk
+| Complexity, Ambiguity | Variotion            | Foreseable Unce           | Unk Unks                                  |
+|-----------------------+----------------------+---------------------------+-------------------------------------------|
+| Few Interactions      | Planning             | Project Risk Mangement    | Manage Residual Risk                      |
+| Many Interactions     | Planning and Control | Control and Fast Response | Parallel Trials, Trial and error learning |
+*** Identifying and Assessing Project Risks
+**** Project Risk Management Plan
+***** Identification
+****** Brainstorm, Previous Projects, Experts
+****** Risk Register
+***** Assessment
+****** Impact
+****** Likelihood
+****** Prioritized Risk Register
+***** Response Planning
+****** Identify Response strategy to each risk
+****** Assign Responsibilities
+***** Monitor and Control
+****** Update Risk Probabilities
+****** Execute planned strategy if the event occurs
+**** Risk Assessment Matrix
+| Likelihood/Impact  | Insignificant | Minor | Moderate | Major | Catastrophic |
+|--------------------+---------------+-------+----------+-------+--------------|
+| Rare <10%          |               |       |          |       |              |
+| Unlikely 10-25     |               |       |          |       |              |
+| Moderate 25-50     |               |       |          |       |              |
+| Likely 50-75       |               |       |          |       |              |
+| Almost Certain >75 |               |       |          |       |              |
+***** For some of the above we might have a contingency plan and for some we should have a mitigation plan. For some we might have a backup plan ready.
+***** Risk score = Impact Score * Likelihood Score
+**** A more realistic timeline
+***** Get min and max for a task
+***** Tornado Digram
+****** Concentrate on the tasks at the top of Tornado diagram
+***** Elicit different opinion
+***** Start thinking of project completion date as a range and not a fixed date
+***** Start assigning probability distribution diagram with each point of estimated range
+***** Using tools, one can come up with various charts which will start displaying our confidence level of a task completion within a time period
+***** Criticality Indices associated with each task will emerge which will tell us the probability of a task to remain on critcal path. With this knowledge, one can concentrate on tasks with high criticality index.
+**** Cost Risk Analysis
+***** Contigency for entire project and not for individual tasks
+** Execution
+*** From Plan to Action
+**** Execution
+***** Monitor
+****** Physical or virtual?
+****** Frequency
+****** PMO?
+****** Monitor what?
+***** Report Collection
+****** Frequency
+****** By Who?
+****** To Who?
+***** Correct and Control
+****** What decisions? What actions?
+****** Who is in charge of execution
+****** How will the outcomes communicated?
